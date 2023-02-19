@@ -197,7 +197,7 @@ h3 {
     /* CONTACTO */
     .formulario {
         background-color: var(--gris);
-        width: min(); /**Utilizar el valor **/ 
+        width: min( 60 rem, 100%); /**Utilizar el valor **/ 
     }
 
     .formulario fieldset{
