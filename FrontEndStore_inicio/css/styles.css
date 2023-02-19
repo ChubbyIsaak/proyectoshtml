@@ -1,11 +1,17 @@
+/*Variables Globales*/
 :root {
     --mintgreen: #C7EAE4;
     --celadon: #A7E8BD;
     --tangelo: #F6511D -gunmetal: #19323C;
     -oxfordblue: #011638;
-    
+    --blanco: #FFF;
+    --oscuro: #000;
+
+    --fuentePrincipal: 'Staatliches', cursive;
+
 }
 
+/*Mejoras*/
 html {
     font-size: 62.5%;
     box-sizing: border-box;
@@ -15,4 +21,11 @@ html {
 *:before,
 *:after {
     box-sizing: inherit;
+}
+
+/*Globales*/
+
+body {
+    font-size: 1.6rem;
+    background-color: var(--mintgreen);
 }
