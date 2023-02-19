@@ -1,0 +1,18 @@
+:root {
+    --mintgreen: #C7EAE4;
+    --celadon: #A7E8BD;
+    --tangelo: #F6511D -gunmetal: #19323C;
+    -oxfordblue: #011638;
+    
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
